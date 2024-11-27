@@ -1,4 +1,4 @@
-# Regression-Analysis
+# Regression-Analysis- Predicting the Bike sharing demand
 This project analyzes the factors influencing bike rental patterns using the "Seoul Bike Sharing Demand Data Set." The dataset includes variables such as the natural logarithm of the number of bike rentals, hour, temperature, humidity, wind speed, visibility, solar radiation, rainfall, snowfall, seasons, and holidays. The analysis employs various statistical techniques to understand the relationships between these variables and bike rental demand.
 
 ## Data Description
